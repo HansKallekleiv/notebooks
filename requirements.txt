@@ -1,5 +1,0 @@
-pandas
-geopandas
-colorcet
-geoviews
-holoviews
