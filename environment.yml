@@ -1,5 +1,6 @@
 name: example-environment
 channels:
+  - ioam
   - conda-forge
 dependencies:
   - numpy
