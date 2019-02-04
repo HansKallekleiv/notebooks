@@ -13,3 +13,5 @@ dependencies:
   - colorcet
   - geoviews
   - holoviews
+  - datashader
+  - xarray
